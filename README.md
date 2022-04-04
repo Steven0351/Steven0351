@@ -29,7 +29,7 @@ Along with writing code in the above languages, I'm also passionate about build 
 
 I'm also familiar with the following frameworks:
 
-<a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/spring-boot/spring-boot.png" alt="Sprint Boot" width="50"/></a> <a href="https://ktor.io/"><img src="https://avatars0.githubusercontent.com/u/28214161?s=200&v=4" alt="Ktor" width="50"/></a> <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/react/react.png" alt="React" width="50"/></a> <a href="https://vapor.codes/"><img src="https://avatars1.githubusercontent.com/u/17364220?s=200&v=4" alt="Vapor" width="50"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/spring-boot/spring-boot.png" alt="Sprint Boot" width="50"/></a> <a href="https://ktor.io/"><img src="https://avatars0.githubusercontent.com/u/28214161?s=200&v=4" alt="Ktor" width="50"/></a> <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/react/react.png" alt="React" width="50"/></a> <a href="https://vapor.codes/"><img src="https://avatars1.githubusercontent.com/u/17364220?s=200&v=4" alt="Vapor" width="50"/></a> <a href="https://svelte.dev/"><img src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png" alt="Svelte" width="50"/></a>
 
 And I've shipped code for these environments:
 
